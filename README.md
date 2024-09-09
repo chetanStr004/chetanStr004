@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Suthar</h1>
 <h3 align="center">"Aspiring Full Stack Developer | DSA Enthusiast | Passionate About Building Innovative Solutions"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chetanstr004&label=Profile%20views&color=0e75b6&style=flat" alt="chetanstr004" />
@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img width="150" height="60" src="https://www.kindpng.com/picc/m/39-390541_twitter-button-png-image-free-download-searchpng-graphic.png" alt="Twitter Follow" />
   </a>
 </p>
 
